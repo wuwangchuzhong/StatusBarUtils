@@ -1,0 +1,3 @@
+http://blog.sina.com.cn/s/blog_5da93c8f01012pnd.html
+可以在基类中设置屏幕方向  
+setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
